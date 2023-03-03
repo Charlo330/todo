@@ -1,0 +1,12 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4420
+    [34mall[39m: [
+      [34;4mApp\Models\Tache[39;24m {#4058
+        [34mid[39m: [35m20[39m,
+        [34mtitre[39m: "[32mofficiis et praesentium[39m",
+        [34mcomplete[39m: [35m0[39m,
+        [34mcreated_at[39m: "[32m2023-02-20 19:22:21[39m",
+        [34mupdated_at[39m: "[32m2023-02-20 19:22:21[39m",
+      },
+    ],
+  }
+
